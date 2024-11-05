@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujesiano.github.io/Itk/sitemap_index.txt
+Sitemap: https://ujesiano.github.io/MNC/sitemap_index.txt
+Sitemap: https://ujesiano.github.io/hOH/sitemap_index.txt
+Sitemap: https://ujesiano.github.io/tDj/sitemap_index.txt
